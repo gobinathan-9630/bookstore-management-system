@@ -1,0 +1,19 @@
+bookstore-management-system/
+│
+├── pom.xml
+├── README.md
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/
+        │       └── skybrisk/
+        │           └── bookstore/
+        │               ├── BookstoreApplication.java
+        │               ├── controller/
+        │               │   └── BookController.java
+        │               ├── model/
+        │               │   └── Book.java
+        │               └── service/
+        │                   └── BookService.java
+        └── resources/
+            └── application.properties
